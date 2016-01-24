@@ -7,6 +7,9 @@ Analyze WAVE soundfile format (分析WAVE檔案) C#
 輸出格式
 * .TXT檔
 
+### Environment
+Visual Studio 2012
+
 ### 執行方法
    編譯後，選擇要分析的.wav檔案
  
